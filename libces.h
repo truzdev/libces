@@ -27,4 +27,7 @@
 #define nosigno unsigne
 #define signo signe
 #define defecto default
+#define clase class
+#define privado private
+#define publico public
 #endif
